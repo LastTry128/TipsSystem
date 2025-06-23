@@ -7,7 +7,8 @@
         "Includes": [
             "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tipssystem\\definitions.tipssystem.h",
             "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\public\\tipssystemlibrary.h",
-            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystemlibrary.generated.h"
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystemlibrary.generated.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\fonts\\fontmeasure.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
