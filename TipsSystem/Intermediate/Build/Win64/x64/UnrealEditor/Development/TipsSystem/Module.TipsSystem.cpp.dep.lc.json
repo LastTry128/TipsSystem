@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tipssystem\\module.tipssystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\workhouse\\ue5\\tipsrichtext\\intermediate\\build\\win64\\x64\\tipsrichtexteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tipssystem\\definitions.tipssystem.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipscontainer.gen.cpp",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\public\\tipscontainer.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipscontainer.generated.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipsrichtextdecorator.gen.cpp",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\public\\tipsrichtextdecorator.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\umg\\public\\components\\richtextblockdecorator.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\slate\\public\\framework\\text\\islaterun.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\slate\\public\\framework\\text\\ilayoutblock.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\slate\\public\\framework\\text\\irunrenderer.h",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\slate\\public\\framework\\text\\itextdecorator.h",
+            "e:\\epic\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\richtextblockdecorator.generated.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipsrichtextdecorator.generated.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystem.init.gen.cpp",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystemlibrary.gen.cpp",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\public\\tipssystemlibrary.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystemlibrary.generated.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tipssystem\\permoduleinline.gen.cpp",
+            "e:\\epic\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

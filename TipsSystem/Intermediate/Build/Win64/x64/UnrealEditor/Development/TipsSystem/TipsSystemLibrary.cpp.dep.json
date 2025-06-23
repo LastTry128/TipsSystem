@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\private\\tipssystemlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\workhouse\\ue5\\tipsrichtext\\intermediate\\build\\win64\\x64\\tipsrichtexteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tipssystem\\definitions.tipssystem.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\source\\tipssystem\\public\\tipssystemlibrary.h",
+            "e:\\workhouse\\ue5\\tipsrichtext\\plugins\\tipssystem\\intermediate\\build\\win64\\unrealeditor\\inc\\tipssystem\\uht\\tipssystemlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

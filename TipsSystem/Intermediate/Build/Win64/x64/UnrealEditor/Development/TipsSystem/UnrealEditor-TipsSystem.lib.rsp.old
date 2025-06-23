@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TipsSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\WorkHouse\UE5\TipsRichText\Intermediate\Build\Win64\x64\TipsRichTextEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\Module.TipsSystem.cpp.obj"
+"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\TipsContainer.cpp.obj"
+"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\TipsRichTextDecorator.cpp.obj"
+"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\TipsSystem.cpp.obj"
+"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\Default.rc2.res"
+/OUT:"E:\WorkHouse\UE5\TipsRichText\Plugins\TipsSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\TipsSystem\UnrealEditor-TipsSystem.lib"

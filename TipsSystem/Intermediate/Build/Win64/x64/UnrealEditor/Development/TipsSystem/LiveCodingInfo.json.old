@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TipsSystem.cpp.obj": [
+			"TipsContainer.gen.cpp.obj",
+			"TipsRichTextDecorator.gen.cpp.obj",
+			"TipsSystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"TipsContainer.cpp.obj",
+			"TipsRichTextDecorator.cpp.obj",
+			"TipsSystem.cpp.obj"
+		]
+	}
+}
